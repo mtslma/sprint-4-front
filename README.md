@@ -48,6 +48,11 @@ Por esse motivo, existem **3 URLs de APIs** que podem ser acessadas, todas com a
 
 ---
 
+## Chabot
+
+Esse repositório não contém as informações necessárias para utilizar o chatbot da IBM. É necessário utilizar suas próprias credenciais.
+
+---
 ## Deploy Vercel
 
 O deploy da aplicação Front-End está disponível em: ATUALIZAR ISSO AQUI
