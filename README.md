@@ -13,15 +13,10 @@ Essa solução promove maior controle e comunicação eficiente entre as equipes
 
 ## Funcionalidades do Sistema
 
-### Para Administradores
-
 * **Registro e gerenciamento de alertas:** Histórico completo de alertas encerrados para consulta e análise.
 * **Classificação de alertas por gravidade:** Permite melhor priorização e resposta a incidentes, com foco nos mais críticos.
 * **Atualização do status operacional de serviços:** Modificação em tempo real das condições das linhas e estações com base nas ocorrências e restrições.
 * **Rede de comunicação com clientes:** Por meio de mensagens de suporte e feedbacks fornecidos, valiosos para entender no que investir para agradar o consumidor.
-
-### Para Passageiros
-
 * **Consulta simplificada de alertas e status de serviços:** Informações atualizadas sobre o serviço, permitindo o planejamento eficiente da viagem.
 * **Acesso a canais de suporte dos serviços:** Um canal de comunicação simples e direto para fornecer feedbacks e tirar dúvidas por meio de mensagem.
 * **Chatbot AUMO+:** Um assistente virtual interativo acessível via site que auxilia usuários.
@@ -31,7 +26,7 @@ Essa solução promove maior controle e comunicação eficiente entre as equipes
 
 ## Repositórios Github
 
-* **Repositório API Java:** [https://github.com/mtslma/aumo-api](https://github.com/mtslma/aumo-api)
+* **Repositório API Java:** [https://github.com/mtslma/sprint-4-java](https://github.com/mtslma/sprint-4-java)
 
 ---
 
@@ -54,13 +49,19 @@ O deploy da aplicação Front-End está disponível em: ATUALIZAR ISSO AQUI
 
 ---
 
+## Área do colaborador
+
+Informações para acessar a área do colaborador estão anexadas no documento PDF que foi enviado junto do proejeto pelo portal do aluno.
+
+---
+
 ## Execução do Projeto
 
 Para rodar o projeto localmente, siga os passos abaixo:
 
 1.  **Clone o repositório Front-End:**
     ```bash
-    git clone https://github.com/mtslma/front-sprint-4
+    git clone https://github.com/mtslma/sprint-4-front
     cd front-sprint-4
     ```
 
