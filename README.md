@@ -78,6 +78,16 @@ Para rodar o projeto localmente, siga os passos abaixo:
 
 3.  **Configure a API_BASE:**
     * Abra o arquivo `services/config.ts`.
+    * Altere os valores com suas credenciais de API da IBM com Watson Assistant.
+        ```typescript
+        // services/chatbot.ts
+         export const CHATBOT_ASSISTANT_ID = "";
+         export const CHATBOT_API_KEY = "";
+         export const CHATBOT_SERVICE_URL = "";
+        ```
+        
+4.  **Configure as credneciais do Chatbot:**
+    * Abra o arquivo `services/config.ts`.
     * Altere o valor de `API_BASE` para uma das URLs da API fornecidas acima. Por exemplo:
         ```typescript
         // services/config.ts
@@ -85,13 +95,13 @@ Para rodar o projeto localmente, siga os passos abaixo:
         export const API_KEY = "sua-chave-api-aqui"; // Certifique-se de ter sua chave API configurada
         ```
 
-4.  **Inicie o servidor de desenvolvimento:**
+5.  **Inicie o servidor de desenvolvimento:**
     ```bash
     npm run dev
     # ou
     yarn dev
     ```
 
-5.  Abra seu navegador e acesse `http://localhost:3000` (ou a porta indicada pelo terminal).
+6.  Abra seu navegador e acesse `http://localhost:3000` (ou a porta indicada pelo terminal).
 
 Agora o projeto deverá estar rodando em sua máquina local!
