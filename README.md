@@ -61,6 +61,8 @@ O deploy da aplicação Front-End está disponível em: ATUALIZAR ISSO AQUI
 
 ## Execução do Projeto
 
+* Para o projeto entrege pelo portal do aluno é necessário apenas instalar as dependências do projeto.
+
 Para rodar o projeto localmente, siga os passos abaixo:
 
 1.  **Clone o repositório Front-End:**
